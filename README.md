@@ -1,5 +1,5 @@
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&text=Welcome_to_Juhee_GITHUB&fontColor=black&fontAlignY=50&fontSize=50&height=200)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&text=JuHee's_GITHUB&fontColor=black&fontAlignY=50&fontSize=50&height=200)
 <br>
 <br>
 <br>
