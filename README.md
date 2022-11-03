@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML53&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white)
 <br>
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngml02)](https://solved.ac/wngml02)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngml02)](https://solved.ac/wngml02)
 <br>
 
 <br>
