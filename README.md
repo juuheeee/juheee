@@ -18,7 +18,7 @@
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white)
 <br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wngml02})](https://solved.ac/{wngml02})
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={wngml02})](https://solved.ac/{wngml02})
 <br>
 
 <br>
